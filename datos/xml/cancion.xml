@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="cancion.dbf">
+  <Structure>
+  <Field>
+  <Field_name>CATITULO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CAMATERIA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        40</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CAAUTOR</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CAINTERP</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CADURACC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CAIDIOMA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <CATITULO>Pura vida</CATITULO>
+    <CAMATERIA>NUEVAS MUSICAS</CAMATERIA>
+    <CAAUTOR>Chris Spheeris</CAAUTOR>
+    <CAINTERP></CAINTERP>
+    <CADURACC>3:50</CADURACC>
+    <CAIDIOMA></CAIDIOMA>
+  </Record>
+  <Record>
+    <CATITULO>Enchantment</CATITULO>
+    <CAMATERIA>NUEVAS MUSICAS</CAMATERIA>
+    <CAAUTOR>Chris Spheeris</CAAUTOR>
+    <CAINTERP></CAINTERP>
+    <CADURACC>4:30</CADURACC>
+    <CAIDIOMA></CAIDIOMA>
+  </Record>
+  <Record>
+    <CATITULO>Throught the wall</CATITULO>
+    <CAMATERIA>NUEVAS MUSICAS</CAMATERIA>
+    <CAAUTOR>Chris Spheeris</CAAUTOR>
+    <CAINTERP></CAINTERP>
+    <CADURACC>4:52</CADURACC>
+    <CAIDIOMA></CAIDIOMA>
+  </Record>
+</Data>
+</ROOT>

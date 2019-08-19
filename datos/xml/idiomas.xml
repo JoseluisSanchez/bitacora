@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="idiomas.dbf">
+  <Structure>
+  <Field>
+  <Field_name>IDIOMA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <IDIOMA>Español</IDIOMA>
+  </Record>
+  <Record>
+    <IDIOMA>Inglés</IDIOMA>
+  </Record>
+  <Record>
+    <IDIOMA>Catalán</IDIOMA>
+  </Record>
+</Data>
+</ROOT>

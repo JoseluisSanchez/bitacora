@@ -1,0 +1,43 @@
+[Columns to view]
+1=1
+2=2
+3=3
+[Columns headers]
+1=MAMATERIA
+2=MAPCLAVE
+3=MAEJEMPL
+[Columns pictures]
+1=
+2=
+3=
+[Columns width]
+1=287
+2=322
+3=63
+[Index files]
+Active index=<None>
+RDD=COMIX
+[Report]
+Title=
+SubTotal=
+File=
+Exit=1
+Page break=.F.
+Summary=.F.
+Cell View=.F.
+[Filters]
+Scope=.F.
+Top Scope=
+Bot Scope=
+Filter=.F.
+Filter expression=
+[Locate]
+Expression=
+[General]
+Header Size=130
+[Graphics Info]
+Elements per serie=Recno()
+Up Title=
+Down Title=
+Right Title=
+Left Title=

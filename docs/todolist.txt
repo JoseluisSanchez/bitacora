@@ -1,0 +1,10 @@
+Haciendo:
+   
+   
+Pendiente:
+	* Incluir filtros en discos/videos/software
+	
+	* Menús popup con aspecto similar a los de Fester
+   
+
+

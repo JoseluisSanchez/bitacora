@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="colibros.dbf">
+  <Structure>
+  <Field>
+  <Field_name>CLTIPO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLNOMBRE</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        40</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLTOMOS</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLEDITOR</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLMATERIA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLPRECIO</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>        13</Field_length>
+  <Field_decimals>         2</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CLNOTAS</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>       255</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <CLTIPO>L</CLTIPO>
+    <CLNOMBRE>NARRATIVA ACTUAL</CLNOMBRE>
+    <CLTOMOS>36</CLTOMOS>
+    <CLEDITOR>Alfaguara</CLEDITOR>
+    <CLMATERIA></CLMATERIA>
+    <CLPRECIO>11.99</CLPRECIO>
+    <CLNOTAS>Precio por unidad.</CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>L</CLTIPO>
+    <CLNOMBRE>ESCRITORES IBEROAMERICANOS</CLNOMBRE>
+    <CLTOMOS>23</CLTOMOS>
+    <CLEDITOR></CLEDITOR>
+    <CLMATERIA></CLMATERIA>
+    <CLPRECIO>0.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>L</CLTIPO>
+    <CLNOMBRE>Diseño y Creatividad</CLNOMBRE>
+    <CLTOMOS>0</CLTOMOS>
+    <CLEDITOR></CLEDITOR>
+    <CLMATERIA></CLMATERIA>
+    <CLPRECIO>0.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>D</CLTIPO>
+    <CLNOMBRE>Nuevas Musicas</CLNOMBRE>
+    <CLTOMOS>90</CLTOMOS>
+    <CLEDITOR>Ediciones del Prado</CLEDITOR>
+    <CLMATERIA>NUEVAS MUSICAS</CLMATERIA>
+    <CLPRECIO>8.71</CLPRECIO>
+    <CLNOTAS>Precio unitario</CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>V</CLTIPO>
+    <CLNOMBRE></CLNOMBRE>
+    <CLTOMOS>0</CLTOMOS>
+    <CLEDITOR></CLEDITOR>
+    <CLMATERIA></CLMATERIA>
+    <CLPRECIO>0.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>V</CLTIPO>
+    <CLNOMBRE>Walt Disney - Los Clásicos</CLNOMBRE>
+    <CLTOMOS>0</CLTOMOS>
+    <CLEDITOR>Disney Enterprises</CLEDITOR>
+    <CLMATERIA>Dibujos animados - infantil</CLMATERIA>
+    <CLPRECIO>0.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>L</CLTIPO>
+    <CLNOMBRE>La Enciclopedia</CLNOMBRE>
+    <CLTOMOS>20</CLTOMOS>
+    <CLEDITOR>Salvat Editores</CLEDITOR>
+    <CLMATERIA>Enciclopedia</CLMATERIA>
+    <CLPRECIO>199.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>L</CLTIPO>
+    <CLNOMBRE>Historia Universal</CLNOMBRE>
+    <CLTOMOS>24</CLTOMOS>
+    <CLEDITOR>Salvat Editores</CLEDITOR>
+    <CLMATERIA>Enciclopedia</CLMATERIA>
+    <CLPRECIO>238.80</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+  <Record>
+    <CLTIPO>D</CLTIPO>
+    <CLNOMBRE>UNA NUEVA</CLNOMBRE>
+    <CLTOMOS>0</CLTOMOS>
+    <CLEDITOR></CLEDITOR>
+    <CLMATERIA></CLMATERIA>
+    <CLPRECIO>0.00</CLPRECIO>
+    <CLNOTAS></CLNOTAS>
+  </Record>
+</Data>
+</ROOT>

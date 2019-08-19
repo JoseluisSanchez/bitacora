@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="notas.dbf">
+  <Structure>
+  <Field>
+  <Field_name>NOTIPO</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>NOFECHA</Field_name>
+  <Field_type>Date</Field_type>
+  </Field>
+  <Field>
+  <Field_name>NOFECHA2</Field_name>
+  <Field_type>Date</Field_type>
+  </Field>
+  <Field>
+  <Field_name>NOCODIGO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>NOTITULO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        70</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>NOAQUIEN</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        50</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <NOTIPO>1</NOTIPO>
+    <NOFECHA>20061029</NOFECHA>
+    <NOFECHA2></NOFECHA2>
+    <NOCODIGO>FREAK</NOCODIGO>
+    <NOTITULO>Freakonomics</NOTITULO>
+    <NOAQUIEN>José Vicente Cantó Berenguer</NOAQUIEN>
+  </Record>
+  <Record>
+    <NOTIPO>1</NOTIPO>
+    <NOFECHA>20061110</NOFECHA>
+    <NOFECHA2></NOFECHA2>
+    <NOCODIGO>IMM002WEB</NOCODIGO>
+    <NOTITULO>Diseño de Páginas Web, Tecnicas avanzadas</NOTITULO>
+    <NOAQUIEN>Manolo Boyer</NOAQUIEN>
+  </Record>
+  <Record>
+    <NOTIPO>2</NOTIPO>
+    <NOFECHA>20060511</NOFECHA>
+    <NOFECHA2></NOFECHA2>
+    <NOCODIGO>KAT.01</NOCODIGO>
+    <NOTITULO>How the west was lost</NOTITULO>
+    <NOAQUIEN>Antonio Abarca</NOAQUIEN>
+  </Record>
+  <Record>
+    <NOTIPO>2</NOTIPO>
+    <NOFECHA>20060511</NOFECHA>
+    <NOFECHA2></NOFECHA2>
+    <NOCODIGO>VAR.04</NOCODIGO>
+    <NOTITULO>Sacred spirit</NOTITULO>
+    <NOAQUIEN>Antonio Abarca</NOAQUIEN>
+  </Record>
+</Data>
+</ROOT>

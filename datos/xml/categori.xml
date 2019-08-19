@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="categori.dbf">
+  <Structure>
+  <Field>
+  <Field_name>TIPO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CATEGORIA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <TIPO>O</TIPO>
+    <CATEGORIA>CADENA DE TELEVISION</CATEGORIA>
+  </Record>
+  <Record>
+    <TIPO>O</TIPO>
+    <CATEGORIA>LIBRERÍA</CATEGORIA>
+  </Record>
+  <Record>
+    <TIPO>O</TIPO>
+    <CATEGORIA>TIENDA DE DISCOS</CATEGORIA>
+  </Record>
+</Data>
+</ROOT>

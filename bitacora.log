@@ -1,0 +1,696 @@
+29-12-2016 10:47:28: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 10:57:00: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:01:23: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:03:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:07:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:08:14: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:09:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:13:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:53:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2016 11:54:29: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+30-12-2016 18:03:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 15:51:37: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(318) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 15:55:08: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 15:59:48: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:00:54: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:02:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:02:35: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:03:56: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:05:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:06:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:11:23: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:14:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:38:13: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:48:17: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+24-01-2017 16:48:17: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+24-01-2017 16:48:17: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:49:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-01-2017 16:57:49: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+25-01-2017 12:46:30: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+25-01-2017 13:47:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 12:02:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 12:07:57: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 12:10:04: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 12:15:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 12:33:24: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:09:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:18:05: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:24:19: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:41:08: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:45:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-02-2017 13:51:05: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:14:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:19:32: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:26:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:33:28: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:34:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 08:35:13: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 13:04:23: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 13:07:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+03-02-2017 13:09:34: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 09:15:07: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 09:15:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 10:50:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 11:17:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 12:18:24: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 13:02:39: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 13:34:17: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 13:38:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 13:56:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 13:58:20: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 14:02:37: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-02-2017 14:05:48: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 13:24:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 13:26:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 13:35:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 13:57:25: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 13:57:37: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 15:01:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 15:03:42: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 15:05:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 15:11:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+07-02-2017 15:15:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 08:10:28: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 10:43:19: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:03:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:04:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:05:28: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:06:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:07:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:21:05: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:24:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 11:40:11: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:30:05: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:33:26: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:33:44: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:38:34: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:45:15: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:46:02: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:46:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:48:53: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-03-2017 12:49:48: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:22:29: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:24:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:26:18: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:26:54: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:27:30: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:29:29: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 12:38:00: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 13:04:23: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 13:14:57: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 13:16:13: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 13:41:28: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 15:13:39: EXCESS RELEASE OF FONT Ms Sans Serif[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TC5TIP:DESTROY(2161) <-TCALENDAR:DESTROY(1725) <-TWINDOW:HANDLEEVENT(0) <-TCALENDAR:HANDLEEVENT(1733) <-_FWH(3345) <-DIALOGBOX(0) <-TDIALOG:ACTIVATE(286) <-SELECFECHA(47)
+	------------------------------------------------------------	
+14-03-2017 15:34:20: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+14-03-2017 15:34:20: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+14-03-2017 15:34:20: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 15:35:03: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 16:17:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+14-03-2017 16:17:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+14-03-2017 16:17:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 16:30:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 16:55:08: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-03-2017 17:38:09: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+15-03-2017 10:12:59: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+15-03-2017 10:15:03: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+15-03-2017 13:44:53: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+15-03-2017 13:44:53: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+15-03-2017 13:46:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 08:55:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 08:59:41: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 13:27:13: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 13:34:49: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 13:38:33: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+16-03-2017 13:43:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+17-03-2017 09:39:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+17-03-2017 09:39:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+17-03-2017 09:39:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+17-03-2017 12:36:11: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+17-03-2017 12:40:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 12:21:49: EXCESS RELEASE OF FONT Ms Sans Serif[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TC5TIP:DESTROY(2161) <-TCALENDAR:DESTROY(1725) <-TWINDOW:HANDLEEVENT(0) <-TCALENDAR:HANDLEEVENT(1733) <-_FWH(3345) <-DIALOGBOX(0) <-TDIALOG:ACTIVATE(286) <-SELECFECHA(47)
+	------------------------------------------------------------	
+20-03-2017 12:21:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+20-03-2017 12:21:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+20-03-2017 12:21:52: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 12:27:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+20-03-2017 12:27:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+20-03-2017 12:27:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:10:09: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:17:50: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TMSGITEM:END(366) <-(b)TMSGBAR_DESTROY(271) <-AEVAL(0) <-TMSGBAR:DESTROY(271) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0)
+	------------------------------------------------------------	
+20-03-2017 13:17:50: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(246) <-TCONTROL:DESTROY(2182) <-TMSGBAR:DESTROY(282) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1733) <-_FWH(3345) <-WINRUN(0) <-TWINDOW:ACTIVATE(1050) <-TAPPLICATION:ACTIVATE(318)
+	------------------------------------------------------------	
+20-03-2017 13:17:50: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:23:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:24:34: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:44:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:50:15: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+20-03-2017 13:52:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-03-2017 09:21:05: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-03-2017 13:14:07: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+24-03-2017 13:19:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+30-03-2017 20:52:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+30-03-2017 20:53:18: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+31-03-2017 19:08:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+31-03-2017 19:11:21: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+01-05-2017 21:41:37: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+02-05-2017 19:31:18: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+12-07-2017 16:29:30: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+18-07-2017 16:33:30: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2017 18:47:26: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2017 18:59:11: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2017 19:21:56: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+17-12-2017 12:20:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+28-12-2017 16:10:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+28-12-2017 16:10:53: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+28-12-2017 16:13:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+28-12-2017 16:14:48: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(246) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2017 11:53:50: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2017 12:28:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2017 13:08:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2017 13:14:24: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+29-12-2017 13:31:25: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-05-2018 16:45:00: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-05-2018 17:40:00: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+08-05-2018 17:41:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+06-08-2018 17:38:41: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 11:45:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(323) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 11:53:24: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(295) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 11:54:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(290)
+	------------------------------------------------------------	
+13-08-2018 11:54:31: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(295) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 12:05:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0)
+	------------------------------------------------------------	
+13-08-2018 12:05:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0)
+	------------------------------------------------------------	
+13-08-2018 12:05:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(290)
+	------------------------------------------------------------	
+13-08-2018 12:05:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -3 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(295) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 13:01:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(291)
+	------------------------------------------------------------	
+13-08-2018 13:01:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 13:33:45: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(291)
+	------------------------------------------------------------	
+13-08-2018 13:33:45: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 13:38:00: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 13:48:03: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 14:16:39: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 14:17:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 14:19:09: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+13-08-2018 14:19:38: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+14-08-2018 12:38:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+04-09-2018 20:19:29: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+11-09-2018 16:25:08: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(296) <-MAIN(42)
+	------------------------------------------------------------	
+11-09-2018 16:31:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+12-09-2018 16:04:55: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+12-09-2018 17:20:22: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0)
+	------------------------------------------------------------	
+12-09-2018 17:20:22: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(289)
+	------------------------------------------------------------	
+12-09-2018 17:20:22: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2018 16:23:37: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2018 16:29:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-SYSREFRESH(0)
+	------------------------------------------------------------	
+14-09-2018 16:29:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-SYSREFRESH(0) <-SYSWAIT(455) <-(b)REGISTRAME(598)
+	------------------------------------------------------------	
+14-09-2018 16:29:16: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2018 16:30:42: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-SYSREFRESH(0) <-SYSWAIT(455) <-(b)REGISTRAME(598)
+	------------------------------------------------------------	
+14-09-2018 16:30:48: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2018 20:06:40: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+14-09-2018 20:07:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+25-09-2018 16:31:10: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-SYSREFRESH(0) <-SYSWAIT(455) <-(b)REGISTRAME(598)
+	------------------------------------------------------------	
+25-09-2018 16:31:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+26-09-2018 19:56:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0)
+	------------------------------------------------------------	
+26-09-2018 19:56:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(289)
+	------------------------------------------------------------	
+26-09-2018 19:56:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+17-10-2018 16:25:17: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+17-10-2018 16:25:47: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+17-10-2018 16:26:50: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+31-03-2019 20:39:29: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(294) <-MAIN(42)
+	------------------------------------------------------------	
+23-04-2019 12:50:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(258)
+	------------------------------------------------------------	
+23-04-2019 12:50:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+23-04-2019 13:25:58: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+23-04-2019 13:34:04: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+24-04-2019 13:35:46: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+06-08-2019 17:25:51: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 16:52:08: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 16:52:34: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 16:53:12: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 16:54:40: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TMSGITEM:END(392) <-(b)TMSGBAR_DESTROY(300) <-AEVAL(0) <-TMSGBAR:DESTROY(300) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0)
+	------------------------------------------------------------	
+19-08-2019 16:54:40: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -1 )
+	 <-TFONT:END(285) <-TCONTROL:DESTROY(2139) <-TMSGBAR:DESTROY(311) <-TWINDOW:HANDLEEVENT(0) <-TMSGBAR:HANDLEEVENT(1731) <-_FWH(3325) <-WINRUN(0) <-TWINDOW:ACTIVATE(1036) <-TAPPLICATION:ACTIVATE(258)
+	------------------------------------------------------------	
+19-08-2019 16:54:40: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : -2 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 17:03:06: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 17:39:36: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(285) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 18:03:30: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(289) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	
+19-08-2019 18:03:35: EXCESS RELEASE OF FONT MS Shell Dlg[ hFont : 0] ( nCount : 0 )
+	 <-TFONT:END(289) <-TAPPLICATION:ACTIVATE(263) <-MAIN(42)
+	------------------------------------------------------------	

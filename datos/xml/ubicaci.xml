@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="ubicaci.dbf">
+  <Structure>
+  <Field>
+  <Field_name>UBTIPO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>UBUBICACI</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>UBITEMS</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <UBTIPO>L</UBTIPO>
+    <UBUBICACI>Estantería Central</UBUBICACI>
+    <UBITEMS>1</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO>S</UBTIPO>
+    <UBUBICACI>Xbase</UBUBICACI>
+    <UBITEMS>43</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO>S</UBTIPO>
+    <UBUBICACI>Caja Utilidades</UBUBICACI>
+    <UBITEMS>1</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO>S</UBTIPO>
+    <UBUBICACI>\internet\download</UBUBICACI>
+    <UBITEMS>1</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO>L</UBTIPO>
+    <UBUBICACI>BILLY Altillo de arriba</UBUBICACI>
+    <UBITEMS>2</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO></UBTIPO>
+    <UBUBICACI></UBUBICACI>
+    <UBITEMS>0</UBITEMS>
+  </Record>
+  <Record>
+    <UBTIPO>L</UBTIPO>
+    <UBUBICACI>BILLY E4</UBUBICACI>
+    <UBITEMS>22</UBITEMS>
+  </Record>
+</Data>
+</ROOT>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="intermed.dbf">
+  <Structure>
+  <Field>
+  <Field_name>LINEA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        81</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+</Data>
+</ROOT>

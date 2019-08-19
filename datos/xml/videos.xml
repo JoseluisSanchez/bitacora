@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="videos.dbf">
+  <Structure>
+  <Field>
+  <Field_name>VINUMERO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIPROPIET</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        40</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VITITULO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIORIGINAL</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIDURAC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIINICIO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIFINAL</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIMATERIA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIIDIOMA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIUBICACI</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIANYO</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         4</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIDIRECTOR</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIACTOR</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIACTRIZ</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIFOTOGRA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIPRODUCT</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VISOPORTE</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VICALIFIC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VICOMENTA</Field_name>
+  <Field_type>Memo</Field_type>
+  </Field>
+  <Field>
+  <Field_name>VIPRESTAD</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIFCHPRES</Field_name>
+  <Field_type>Date</Field_type>
+  </Field>
+  <Field>
+  <Field_name>VIPROVEED</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIFCHADQ</Field_name>
+  <Field_type>Date</Field_type>
+  </Field>
+  <Field>
+  <Field_name>VIPRECIO</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         9</Field_length>
+  <Field_decimals>         2</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIBSOTIT</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIBSOAUT</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIBSOEDI</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VICOLECC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        40</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VICOLTOT</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VICOLEST</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>VIIMAGEN</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>       120</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <VINUMERO>DR-23</VINUMERO>
+    <VIPROPIET></VIPROPIET>
+    <VITITULO>Tu nombre envenena mis sueños.</VITITULO>
+    <VIORIGINAL></VIORIGINAL>
+    <VIDURAC>1h 58m</VIDURAC>
+    <VIINICIO></VIINICIO>
+    <VIFINAL>1</VIFINAL>
+    <VIMATERIA>DRAMA</VIMATERIA>
+    <VIIDIOMA></VIIDIOMA>
+    <VIUBICACI></VIUBICACI>
+    <VIANYO>0</VIANYO>
+    <VIDIRECTOR>Pilar Miró</VIDIRECTOR>
+    <VIACTOR>Carmelo Gómez</VIACTOR>
+    <VIACTRIZ>Emma Suarez</VIACTRIZ>
+    <VIFOTOGRA></VIFOTOGRA>
+    <VIPRODUCT></VIPRODUCT>
+    <VISOPORTE>2</VISOPORTE>
+    <VICALIFIC>TP</VICALIFIC>
+    <VICOMENTA>Dos historias de amor frustrado.</VICOMENTA>
+    <VIPRESTAD></VIPRESTAD>
+    <VIFCHPRES></VIFCHPRES>
+    <VIPROVEED>FNAC</VIPROVEED>
+    <VIFCHADQ>20060525</VIFCHADQ>
+    <VIPRECIO>0.00</VIPRECIO>
+    <VIBSOTIT></VIBSOTIT>
+    <VIBSOAUT></VIBSOAUT>
+    <VIBSOEDI></VIBSOEDI>
+    <VICOLECC></VICOLECC>
+    <VICOLTOT>0</VICOLTOT>
+    <VICOLEST>0</VICOLEST>
+    <VIIMAGEN>C:\Alanit\develop\bitacora\portadas\8432304263.gif</VIIMAGEN>
+  </Record>
+  <Record>
+    <VINUMERO>0000012345</VINUMERO>
+    <VIPROPIET></VIPROPIET>
+    <VITITULO>Como hacer una colcha americana</VITITULO>
+    <VIORIGINAL>How to make an american quilt</VIORIGINAL>
+    <VIDURAC>1h 50m</VIDURAC>
+    <VIINICIO></VIINICIO>
+    <VIFINAL>1</VIFINAL>
+    <VIMATERIA>ROMANTICA</VIMATERIA>
+    <VIIDIOMA></VIIDIOMA>
+    <VIUBICACI></VIUBICACI>
+    <VIANYO>0</VIANYO>
+    <VIDIRECTOR>Jocelyn Moorehouse</VIDIRECTOR>
+    <VIACTOR>Un actor principal</VIACTOR>
+    <VIACTRIZ>Winona Ryder</VIACTRIZ>
+    <VIFOTOGRA></VIFOTOGRA>
+    <VIPRODUCT>TRI-STAR</VIPRODUCT>
+    <VISOPORTE>2</VISOPORTE>
+    <VICALIFIC>TP</VICALIFIC>
+    <VICOMENTA></VICOMENTA>
+    <VIPRESTAD></VIPRESTAD>
+    <VIFCHPRES></VIFCHPRES>
+    <VIPROVEED>Kiosko Javi</VIPROVEED>
+    <VIFCHADQ></VIFCHADQ>
+    <VIPRECIO>0.00</VIPRECIO>
+    <VIBSOTIT>How to make an american quilt</VIBSOTIT>
+    <VIBSOAUT></VIBSOAUT>
+    <VIBSOEDI></VIBSOEDI>
+    <VICOLECC></VICOLECC>
+    <VICOLTOT>0</VICOLTOT>
+    <VICOLEST>0</VICOLEST>
+    <VIIMAGEN>C:\Alanit\develop\bitacora\portadas\freakonomics.jpg</VIIMAGEN>
+  </Record>
+  <Record>
+    <VINUMERO>DIS014</VINUMERO>
+    <VIPROPIET>Fátima Sánchez</VIPROPIET>
+    <VITITULO>Peter Pan</VITITULO>
+    <VIORIGINAL>Peter Pan</VIORIGINAL>
+    <VIDURAC>1h:14m</VIDURAC>
+    <VIINICIO></VIINICIO>
+    <VIFINAL>1</VIFINAL>
+    <VIMATERIA>Dibujos animados - infantil</VIMATERIA>
+    <VIIDIOMA>Español</VIIDIOMA>
+    <VIUBICACI></VIUBICACI>
+    <VIANYO>0</VIANYO>
+    <VIDIRECTOR></VIDIRECTOR>
+    <VIACTOR></VIACTOR>
+    <VIACTRIZ></VIACTRIZ>
+    <VIFOTOGRA></VIFOTOGRA>
+    <VIPRODUCT>Disney Enterprises</VIPRODUCT>
+    <VISOPORTE>2</VISOPORTE>
+    <VICALIFIC>TP</VICALIFIC>
+    <VICOMENTA></VICOMENTA>
+    <VIPRESTAD></VIPRESTAD>
+    <VIFCHPRES></VIFCHPRES>
+    <VIPROVEED>Kiosko Javi</VIPROVEED>
+    <VIFCHADQ>20041230</VIFCHADQ>
+    <VIPRECIO>22.00</VIPRECIO>
+    <VIBSOTIT></VIBSOTIT>
+    <VIBSOAUT></VIBSOAUT>
+    <VIBSOEDI></VIBSOEDI>
+    <VICOLECC>Walt Disney - Los Clásicos</VICOLECC>
+    <VICOLTOT>0</VICOLTOT>
+    <VICOLEST>0</VICOLEST>
+    <VIIMAGEN></VIIMAGEN>
+  </Record>
+</Data>
+</ROOT>

@@ -1,0 +1,6 @@
+versión 8.31.a
+	* Cambio de TZoomImage por TXImage
+	* Compilado con FWH 1905
+
+   
+

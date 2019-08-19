@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="candisc.dbf">
+  <Structure>
+  <Field>
+  <Field_name>CDMUCODIGO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDMUTITULO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDMUINTERP</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDCATITULO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDCAAUTOR</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDCADURACC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDCAIDIOMA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>CDORDEN</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         2</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <CDMUCODIGO>SPH.02</CDMUCODIGO>
+    <CDMUTITULO>Enchantment</CDMUTITULO>
+    <CDMUINTERP>Chris Spheeris - Paul Voudouris</CDMUINTERP>
+    <CDCATITULO>Enchantment</CDCATITULO>
+    <CDCAAUTOR>Chris Spheeris</CDCAAUTOR>
+    <CDCADURACC>4:30</CDCADURACC>
+    <CDCAIDIOMA></CDCAIDIOMA>
+    <CDORDEN>01</CDORDEN>
+  </Record>
+  <Record>
+    <CDMUCODIGO>SPH.02</CDMUCODIGO>
+    <CDMUTITULO>Enchantment</CDMUTITULO>
+    <CDMUINTERP>Chris Spheeris - Paul Voudouris</CDMUINTERP>
+    <CDCATITULO>Pura vida</CDCATITULO>
+    <CDCAAUTOR>Chris Spheeris</CDCAAUTOR>
+    <CDCADURACC>3:50</CDCADURACC>
+    <CDCAIDIOMA></CDCAIDIOMA>
+    <CDORDEN>03</CDORDEN>
+  </Record>
+  <Record>
+    <CDMUCODIGO>SPH.02</CDMUCODIGO>
+    <CDMUTITULO>Enchantment</CDMUTITULO>
+    <CDMUINTERP>Chris Spheeris - Paul Voudouris</CDMUINTERP>
+    <CDCATITULO>Throught the wall</CDCATITULO>
+    <CDCAAUTOR>Chris Spheeris</CDCAAUTOR>
+    <CDCADURACC>4:52</CDCADURACC>
+    <CDCAIDIOMA></CDCAIDIOMA>
+    <CDORDEN>02</CDORDEN>
+  </Record>
+  <Record>
+    <CDMUCODIGO>BSO.04</CDMUCODIGO>
+    <CDMUTITULO>1492: la conquista del paraiso</CDMUTITULO>
+    <CDMUINTERP>Vangelis</CDMUINTERP>
+    <CDCATITULO></CDCATITULO>
+    <CDCAAUTOR></CDCAAUTOR>
+    <CDCADURACC></CDCADURACC>
+    <CDCAIDIOMA></CDCAIDIOMA>
+    <CDORDEN></CDORDEN>
+  </Record>
+  <Record>
+    <CDMUCODIGO>SPH.01</CDMUCODIGO>
+    <CDMUTITULO>Culture</CDMUTITULO>
+    <CDMUINTERP>Chris Spheeris</CDMUINTERP>
+    <CDCATITULO>Pura Vida</CDCATITULO>
+    <CDCAAUTOR>Chris Spheeris</CDCAAUTOR>
+    <CDCADURACC></CDCADURACC>
+    <CDCAIDIOMA></CDCAIDIOMA>
+    <CDORDEN>01</CDORDEN>
+  </Record>
+</Data>
+</ROOT>

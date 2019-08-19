@@ -1,0 +1,91 @@
+<XMLConfigSettings>
+	<FILEINFO type="ProjectFile">
+		<Type>ProjectFile</Type>
+	</FILEINFO>
+	<Properties>
+		<WorkDirectory>c:\\alanit\\develop\\bitacora</WorkDirectory>
+		<PLanguage>xHarbour</PLanguage>
+		<Encoding>-1</Encoding>
+		<CRLFMode>-1</CRLFMode>
+		<RootDirectory>c:\\alanit\\develop\\bitacora</RootDirectory>
+	</Properties>
+	<NODES>
+		<Folder open="true" name="1 BTC">
+			<File name=".\\prg\\btc\\main.prg"/>
+			<File name=".\\prg\\btc\\pagenda.prg"/>
+			<File name=".\\prg\\btc\\pautores.prg"/>
+			<File name=".\\prg\\btc\\pcanciones.prg"/>
+			<File name=".\\prg\\btc\\pcategorias.prg"/>
+			<File name=".\\prg\\btc\\pcolecciones.prg"/>
+			<File name=".\\prg\\btc\\pcompras.prg"/>
+			<File name=".\\prg\\btc\\pdiscos.prg"/>
+			<File name=".\\prg\\btc\\peditores.prg"/>
+			<File name=".\\prg\\btc\\pidiomas.prg"/>
+			<File name=".\\prg\\btc\\pinternet.prg"/>
+			<File name=".\\prg\\btc\\plibros.prg"/>
+			<File name=".\\prg\\btc\\pmaterias.prg"/>
+			<File name=".\\prg\\btc\\pnotas.prg"/>
+			<File name=".\\prg\\btc\\psoftware.prg"/>
+			<File name=".\\prg\\btc\\psoportes.prg"/>
+			<File name=".\\prg\\btc\\pubicaciones.prg"/>
+			<File name=".\\prg\\btc\\pvideos.prg"/>
+		</Folder>
+		<Folder open="true" name="2 AZT">
+			<File name=".\\prg\\azt\\zArticulo.prg"/>
+			<File name=".\\prg\\azt\\zAutor.prg"/>
+			<File name=".\\prg\\azt\\zEtiquetas.prg"/>
+			<File name=".\\prg\\azt\\zFrances.prg"/>
+			<File name=".\\prg\\azt\\zIdioma.prg"/>
+			<File name=".\\prg\\azt\\zMateria.prg"/>
+			<File name=".\\prg\\azt\\zPeriodi.prg"/>
+			<File name=".\\prg\\azt\\zPublica.prg"/>
+			<File name=".\\prg\\azt\\zTipoDoc.prg"/>
+			<File name=".\\prg\\azt\\zUbicaci.prg"/>
+		</Folder>
+		<Folder open="true" name="3 alanit">
+			<File name=".\\prg\\alanit\\tfsdi.prg"/>
+			<File name=".\\prg\\alanit\\tinforme.prg"/>
+			<File name=".\\prg\\alanit\\ut_brw.prg"/>
+			<File name=".\\prg\\alanit\\ut_calend.prg"/>
+			<File name=".\\prg\\alanit\\ut_common.prg"/>
+			<File name=".\\prg\\alanit\\ut_dbf.prg"/>
+			<File name=".\\prg\\alanit\\ut_index.prg"/>
+			<File name=".\\prg\\alanit\\ut_msg.prg"/>
+			<File name=".\\prg\\alanit\\ut_tips.prg"/>
+			<File name=".\\prg\\alanit\\ut_utilidades.prg"/>
+			<File name=".\\prg\\alanit\\ut_xml.prg"/>
+			<File name=".\\prg\\alanit\\zipbackup.prg"/>
+		</Folder>
+		<Folder open="true" name="4 FWH">
+			<File name=".\\prg\\fwh\\c5bmp.prg"/>
+			<File name=".\\prg\\fwh\\c5imglis.prg"/>
+			<File name=".\\prg\\fwh\\c5tip.prg"/>
+			<File name=".\\prg\\fwh\\c5vitem.prg"/>
+			<File name=".\\prg\\fwh\\c5vmenu.prg"/>
+			<File name=".\\prg\\fwh\\rpreview.prg"/>
+			<File name=".\\prg\\fwh\\tabs.prg"/>
+			<File name=".\\prg\\fwh\\taget.prg"/>
+			<File name=".\\prg\\fwh\\tagever2.prg"/>
+			<File name=".\\prg\\fwh\\tautoget.prg"/>
+		</Folder>
+		<File name=".\\prg\\tzoomimage.prg"/>
+		<Folder open="true" name="Docs">
+			<File name=".\\docs\\notas.txt"/>
+			<File name=".\\docs\\todolist.txt"/>
+			<File name=".\\docs\\whatsnew.txt"/>
+		</Folder>
+		<Folder open="true" name="make">
+			<File name=".\\bitacora.ini"/>
+			<File name=".\\Error.log"/>
+			<File name=".\\makefile\\brc.bat"/>
+			<File name=".\\makefile\\btc1701.bc"/>
+			<File name=".\\makefile\\btc1701.mak"/>
+			<File name=".\\recursos\\bitacora.rc"/>
+			<File name=".\\.gitignore"/>
+		</Folder>
+		<Tool name="&gt;&gt; clean" initial_dir="%ProjectDir%" capture_output="true" context_menu="true" key="120" command=".\\makefile\\clean.bat"/>
+		<Tool name="&gt;&gt; brc" initial_dir="%ProjectDir%" capture_output="true" context_menu="true" key="121" command=".\\makefile\\brc.bat"/>
+		<Tool name="&gt;&gt; build 1701" arguments="-f%ProjectDir%\\makefile\\btc1701" initial_dir="%ProjectDir%" capture_output="true" context_menu="true" save="2" key="122" command="..\\..\\..\\bcc\\bcc7\\Bin\\make.exe"/>
+		<Tool name="bitacora" initial_dir="%ProjectDir%" context_menu="true" key="123" command=".\\bitacora.exe"/>
+	</NODES>
+</XMLConfigSettings>

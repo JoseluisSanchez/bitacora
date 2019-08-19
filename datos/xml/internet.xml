@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT DATABASE="internet.dbf">
+  <Structure>
+  <Field>
+  <Field_name>INCODIGO</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        10</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INNOMBRE</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INDIRECC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        60</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INIDIOMA</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INIDIOMAC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INOTROID</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        15</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INSERVIC</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>         6</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INMATERIA</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        30</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INDESCRI</Field_name>
+  <Field_type>Memo</Field_type>
+  </Field>
+  <Field>
+  <Field_name>INDISENO</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INCONTENI</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INVALORAC</Field_name>
+  <Field_type>Numeric</Field_type>
+  <Field_length>         1</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  <Field>
+  <Field_name>INFCHVIS</Field_name>
+  <Field_type>Date</Field_type>
+  </Field>
+  <Field>
+  <Field_name>INEMAIL</Field_name>
+  <Field_type>Character</Field_type>
+  <Field_length>        40</Field_length>
+  <Field_decimals>         0</Field_decimals>
+  </Field>
+  </Structure>
+  <Data>
+  <Record>
+    <INCODIGO>0000000001</INCODIGO>
+    <INNOMBRE>Icon buffet</INNOMBRE>
+    <INDIRECC>http://www.iconbuffet.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>5</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000002</INCODIGO>
+    <INNOMBRE>Icon kits</INNOMBRE>
+    <INDIRECC>http://www.iconkits.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>4</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000003</INCODIGO>
+    <INNOMBRE>IconExperience</INNOMBRE>
+    <INDIRECC>http://www.iconexperience.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>4</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000004</INCODIGO>
+    <INNOMBRE>FastIcon</INNOMBRE>
+    <INDIRECC>http://www.fasticon.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000005</INCODIGO>
+    <INNOMBRE>Guiicons</INNOMBRE>
+    <INDIRECC>http://www.guiicons.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000006</INCODIGO>
+    <INNOMBRE>Icon Galore</INNOMBRE>
+    <INDIRECC>http://www.icongalore.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>ICONOS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050510</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>0000000007</INCODIGO>
+    <INNOMBRE>xHarbour developer network</INNOMBRE>
+    <INDIRECC>http://www.xharbour.com/xHDN/</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>XHARBOUR</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20050601</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>1</INCODIGO>
+    <INNOMBRE>alanit</INNOMBRE>
+    <INDIRECC>http://www.alanit.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>Software doméstico</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>4</INDISENO>
+    <INCONTENI>5</INCONTENI>
+    <INVALORAC>4</INVALORAC>
+    <INFCHVIS>20080901</INFCHVIS>
+    <INEMAIL>correo@alanit.com</INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>NET01</INCODIGO>
+    <INNOMBRE>NetVeloper</INNOMBRE>
+    <INDIRECC>http://www.netveloper.com/</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>.NET</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060120</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>REV.001</INCODIGO>
+    <INNOMBRE>Hobbypress</INNOMBRE>
+    <INDIRECC>http://www.hobbypress.es/</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC></INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>REVISTAS INFORMATICA</INMATERIA>
+    <INDESCRI>Editores de Personal Computer, Pc Today y Computer Hoy</INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060123</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>REV.002</INCODIGO>
+    <INNOMBRE>Pc-Actual</INNOMBRE>
+    <INDIRECC>oscar.condes@vnubp.es</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>REVISTAS INFORMATICA</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060123</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>HOTEL.001</INCODIGO>
+    <INNOMBRE>Bookings</INNOMBRE>
+    <INDIRECC>http://www.bookings.org</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC></INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>HOTELES</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060207</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>10</INCODIGO>
+    <INNOMBRE>MSDN en español</INNOMBRE>
+    <INDIRECC>http://www.microsoft.com/spanish/msdn/spain/default.mspx</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>.NET</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060512</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>11</INCODIGO>
+    <INNOMBRE>Introducción a Visual C#</INNOMBRE>
+    <INDIRECC>http://msdn2.microsoft.com/es-es/library/fkhhsdkt.aspx</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>.NET</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060512</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>RURAL001</INCODIGO>
+    <INNOMBRE>Top Rural</INNOMBRE>
+    <INDIRECC>http://www.toprural.com</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>Turismo rural</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060622</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO>MONO.0001</INCODIGO>
+    <INNOMBRE>Torna&apos;t mico</INNOMBRE>
+    <INDIRECC>http://tornatmico.org/libro/Lib</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>MONO</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060722</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO></INCODIGO>
+    <INNOMBRE>Casa</INNOMBRE>
+    <INDIRECC>http://www.casashops.es</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Español</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>DECORACIÓN</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20060819</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO></INCODIGO>
+    <INNOMBRE>DivxTotal</INNOMBRE>
+    <INDIRECC>http://www.divxtotal.com/</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC></INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>TORRENTS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20070121</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO></INCODIGO>
+    <INNOMBRE>MoviesDVDR</INNOMBRE>
+    <INDIRECC>http://www.moviesdvdr.com/</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC></INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>TORRENTS</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20070121</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+  <Record>
+    <INCODIGO></INCODIGO>
+    <INNOMBRE>XPTaskBar</INNOMBRE>
+    <INDIRECC>http://www.codeproject.com/KB/miscctrl/XPTaskBar.aspx</INDIRECC>
+    <INIDIOMA>0</INIDIOMA>
+    <INIDIOMAC>Inglés</INIDIOMAC>
+    <INOTROID></INOTROID>
+    <INSERVIC>web</INSERVIC>
+    <INMATERIA>.NET</INMATERIA>
+    <INDESCRI></INDESCRI>
+    <INDISENO>1</INDISENO>
+    <INCONTENI>1</INCONTENI>
+    <INVALORAC>1</INVALORAC>
+    <INFCHVIS>20080515</INFCHVIS>
+    <INEMAIL></INEMAIL>
+  </Record>
+</Data>
+</ROOT>

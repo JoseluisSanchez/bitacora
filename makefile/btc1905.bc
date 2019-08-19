@@ -1,0 +1,95 @@
+c:\bcc\bcc7\lib\c0w32.obj +
+   .\OBJ\MAIN.OBJ          +
+   .\OBJ\PAGENDA.OBJ       +
+   .\OBJ\PAUTORES.OBJ      +
+   .\OBJ\PCANCIONES.OBJ    +
+   .\OBJ\PCATEGORIAS.OBJ   +
+   .\OBJ\PCOLECCIONES.OBJ  +
+   .\OBJ\PCOMPRAS.OBJ      +
+   .\OBJ\PDISCOS.OBJ       +
+   .\OBJ\PEDITORES.OBJ     +
+   .\OBJ\PIDIOMAS.OBJ      +
+   .\OBJ\PINTERNET.OBJ     +
+   .\OBJ\PLIBROS.OBJ       +
+   .\OBJ\PMATERIAS.OBJ     +
+   .\OBJ\PNOTAS.OBJ        +
+   .\OBJ\PSOFTWARE.OBJ     +
+   .\OBJ\PSOPORTES.OBJ     +
+   .\OBJ\PUBICACIONES.OBJ  +
+   .\OBJ\PVIDEOS.OBJ       +
+   .\OBJ\ZARTICULO.OBJ 	   +
+   .\OBJ\ZAUTOR.OBJ		   +
+   .\OBJ\ZETIQUETAS.OBJ	   +
+   .\OBJ\ZMATERIA.OBJ	   +
+   .\OBJ\ZPERIODI.OBJ	   +
+   .\OBJ\ZPUBLICA.OBJ	   +
+   .\OBJ\ZTIPODOC.OBJ	   +
+   .\OBJ\ZUBICACI.OBJ	   +
+   .\OBJ\C5BMP.OBJ	  	   +
+   .\OBJ\C5IMGLIS.OBJ      +
+   .\OBJ\C5TIP.OBJ 	  	   +
+   .\OBJ\C5VITEM.OBJ	   	+
+   .\OBJ\C5VMENU.OBJ	   	+
+   .\OBJ\RPREVIEW.OBJ		+
+   .\OBJ\TSAYREF.OBJ       +
+   .\OBJ\TABS.OBJ          +
+	.\OBJ\TAUTOGET.OBJ		+
+   .\OBJ\TAGET.OBJ         +
+   .\OBJ\TAGEVER2.OBJ	   +
+   .\OBJ\TFSDI.OBJ         +
+   .\OBJ\TINFORME.OBJ	   +
+   .\OBJ\UT_BRW.OBJ        +
+   .\OBJ\UT_CALEND.OBJ     +
+   .\OBJ\UT_COMMON.OBJ     +
+   .\OBJ\UT_DBF.OBJ        +
+   .\OBJ\UT_INDEX.OBJ      +
+	.\OBJ\UT_OVERRIDE.OBJ	+
+   .\OBJ\UT_MSG.OBJ        +
+   .\OBJ\UT_TIPS.OBJ       +
+   .\OBJ\UT_UTILIDADES.OBJ +
+   .\OBJ\UT_XML.OBJ        +
+   .\OBJ\ZIPBACKUP.OBJ	  ,+     
+bitacora.exe, +
+bitacora.map, +
+c:\fivetech\fwh1406\lib1406\filexls.lib +
+c:\fivetech\fwh1905\lib\FiveH.lib +
+c:\fivetech\fwh1905\lib\FiveHC.lib +
+c:\fivetech\hb32_bcc7_1905\lib\hbrtl.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbvm.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\gtgui.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hblang.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbmacro.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbrdd.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\rddntx.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\rddcdx.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\rddfpt.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbsix.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbdebug.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbcommon.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbpp.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbcpage.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbwin.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbcplr.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbct.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbpcre.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\xhb.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbziparc.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbmzip.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\hbzlib.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\minizip.lib + 
+c:\fivetech\hb32_bcc7_1905\lib\png.lib + 
+c:\fivetech\hb32_bcc7\lib\rddads.lib + 
+c:\fivetech\hb32_bcc7\lib\Ace32.lib + 
+c:\bcc\bcc7\lib\cw32.lib + 
+c:\bcc\bcc7\lib\uuid.lib + 
+c:\bcc\bcc7\lib\import32.lib + 
+c:\bcc\bcc7\lib\ws2_32.lib + 
+c:\bcc\bcc7\lib\psdk\odbc32.lib + 
+c:\bcc\bcc7\lib\psdk\nddeapi.lib + 
+c:\bcc\bcc7\lib\psdk\iphlpapi.lib + 
+c:\bcc\bcc7\lib\psdk\msimg32.lib + 
+c:\bcc\bcc7\lib\psdk\psapi.lib + 
+c:\bcc\bcc7\lib\psdk\rasapi32.lib + 
+c:\bcc\bcc7\lib\psdk\gdiplus.lib + 
+c:\bcc\bcc7\lib\psdk\shell32.lib, 
+bitacora.res

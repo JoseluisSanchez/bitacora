@@ -1,0 +1,1 @@
+c:\bcc55\bin\make.exe -f btc1204.mak
